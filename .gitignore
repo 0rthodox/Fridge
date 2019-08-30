@@ -1,0 +1,14 @@
+
+\.vs/Fridge/v16/\.suo
+
+*.db
+
+*.ipch
+
+*.sln
+
+*.vcxproj
+
+*.filters
+
+*.user
